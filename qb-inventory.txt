@@ -1,1 +1,1 @@
-{"version":"1.2.0","news":"Suraj op"}
+{"version":"1.0.0","news":"Update Coming Soon"}
