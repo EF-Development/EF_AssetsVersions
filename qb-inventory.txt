@@ -1,1 +1,1 @@
-{"version":"1.1.0","news":"Crafting Update"}
+{"version":"1.0.0","news":"Updates Coming Soon"}
